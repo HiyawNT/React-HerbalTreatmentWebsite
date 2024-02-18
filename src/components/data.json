@@ -1,0 +1,244 @@
+{
+  "herbs": [
+    {
+      "id": 31,
+      "name": "Ginkgo Biloba",
+      "scientific_name": "Ginkgo biloba",
+      "description": "Ginkgo Biloba is an ancient tree species known for its fan-shaped leaves. It is commonly used for its potential cognitive benefits, including improved memory and concentration.",
+      "uses": ["Cognitive support", "Memory enhancement"],
+      "categories": ["Cognitive Support", "Memory Enhancement"]
+    },
+    {
+      "id": 32,
+      "name": "Burdock Root",
+      "scientific_name": "Arctium lappa",
+      "description": "Burdock root is a plant root commonly used in traditional medicine. It is believed to have detoxifying properties and is used for skin conditions and digestive health.",
+      "uses": ["Detoxification", "Skin health"],
+      "categories": ["Detoxification", "Skin Health"]
+    },
+    {
+      "id": 33,
+      "name": "Oregano",
+      "scientific_name": "Origanum vulgare",
+      "description": "Oregano is a fragrant herb often used in cooking. It is known for its antimicrobial properties and is used both culinarily and medicinally.",
+      "uses": ["Antimicrobial", "Culinary herb"],
+      "categories": ["Antimicrobial", "Culinary Herb"]
+    },
+    {
+      "id": 34,
+      "name": "Mullein",
+      "scientific_name": "Verbascum thapsus",
+      "description": "Mullein is a tall plant with fuzzy leaves. It is often used for respiratory conditions and is believed to have soothing and expectorant properties.",
+      "uses": ["Respiratory health", "Soothing"],
+      "categories": ["Respiratory Health", "Soothing"]
+    },
+    {
+      "id": 35,
+      "name": "Yarrow",
+      "scientific_name": "Achillea millefolium",
+      "description": "Yarrow is a flowering plant with feathery leaves. It is used for its potential anti-inflammatory and wound-healing properties and is often applied topically.",
+      "uses": ["Wound healing", "Anti-inflammatory"],
+      "categories": ["Wound Healing", "Anti-inflammatory"]
+    },
+    {
+      "id": 36,
+      "name": "Motherwort",
+      "scientific_name": "Leonurus cardiaca",
+      "description": "Motherwort is an herb in the mint family. It is traditionally used for its potential calming effects on the nervous system and is believed to support heart health.",
+      "uses": ["Calming", "Heart health"],
+      "categories": ["Calming", "Heart Health"]
+    },
+    {
+      "id": 37,
+      "name": "Red Clover",
+      "scientific_name": "Trifolium pratense",
+      "description": "Red Clover is a flowering plant used in traditional medicine. It is believed to have estrogen-like effects and is often used for hormonal balance and skin health.",
+      "uses": ["Hormonal balance", "Skin health"],
+      "categories": ["Hormonal Balance", "Skin Health"]
+    },
+    {
+      "id": 38,
+      "name": "Butterbur",
+      "scientific_name": "Petasites hybridus",
+      "description": "Butterbur is a plant with large leaves. It is traditionally used for migraines and allergies and is believed to have anti-inflammatory properties.",
+      "uses": ["Migraine relief", "Allergy support"],
+      "categories": ["Migraine Relief", "Allergy Support"]
+    },
+    {
+      "id": 39,
+      "name": "Cayenne Pepper",
+      "scientific_name": "Capsicum annuum",
+      "description": "Cayenne pepper is a hot chili pepper used in cooking. It is known for its spicy flavor and is believed to have potential cardiovascular and metabolic benefits.",
+      "uses": ["Metabolic support", "Cardiovascular health"],
+      "categories": ["Metabolic Support", "Cardiovascular Health"]
+    },
+    {
+      "id": 40,
+      "name": "Sage",
+      "scientific_name": "Salvia officinalis",
+      "description": "Sage is an aromatic herb often used in cooking. It is known for its potential cognitive and memory-enhancing properties and is used both culinarily and medicinally.",
+      "uses": ["Cognitive support", "Culinary herb"],
+      "categories": ["Cognitive Support", "Culinary Herb"]
+    },
+    {
+      "id": 41,
+      "name": "Devil's Claw",
+      "scientific_name": "Harpagophytum procumbens",
+      "description": "Devil's Claw is a plant native to southern Africa. It is traditionally used for its anti-inflammatory properties and is often taken as a supplement for joint health.",
+      "uses": ["Anti-inflammatory", "Joint health"],
+      "categories": ["Anti-inflammatory", "Joint Health"]
+    },
+    {
+      "id": 42,
+      "name": "Ashwagandha",
+      "scientific_name": "Withania somnifera",
+      "description": "Ashwagandha is an adaptogenic herb used in Ayurvedic medicine. It is believed to help the body adapt to stress, improve energy levels, and support overall well-being.",
+      "uses": ["Adaptogenic", "Energy support"],
+      "categories": ["Adaptogenic", "Energy Support"]
+    },
+    {
+      "id": 43,
+      "name": "Feverfew",
+      "scientific_name": "Tanacetum parthenium",
+      "description": "Feverfew is a plant with small daisy-like flowers. It is traditionally used for migraines and headaches, and it is believed to have anti-inflammatory properties.",
+      "uses": ["Migraine relief", "Anti-inflammatory"],
+      "categories": ["Migraine Relief", "Anti-inflammatory"]
+    },
+    {
+      "id": 44,
+      "name": "Hawthorn",
+      "scientific_name": "Crataegus monogyna",
+      "description": "Hawthorn is a shrub with berries that have been used in traditional medicine for heart health. It is believed to support cardiovascular function and improve circulation.",
+      "uses": ["Heart health", "Circulatory support"],
+      "categories": ["Heart Health", "Circulatory Support"]
+    },
+    {
+      "id": 45,
+      "name": "Bilberry",
+      "scientific_name": "Vaccinium myrtillus",
+      "description": "Bilberry is a small, dark purple fruit similar to blueberries. It is rich in antioxidants and is believed to support eye health and improve vision.",
+      "uses": ["Eye health", "Antioxidant support"],
+      "categories": ["Eye Health", "Antioxidant Support"]
+    },
+    {
+      "id": 46,
+      "name": "Cat's Claw",
+      "scientific_name": "Uncaria tomentosa",
+      "description": "Cat's Claw is a woody vine native to the Amazon rainforest. It is believed to have anti-inflammatory properties and is used in traditional medicine for various health benefits.",
+      "uses": ["Anti-inflammatory", "Immune support"],
+      "categories": ["Anti-inflammatory", "Immune Support"]
+    },
+    {
+      "id": 47,
+      "name": "St. John's Wort",
+      "scientific_name": "Hypericum perforatum",
+      "description": "St. John's Wort is an herb with yellow flowers. It is used for its potential antidepressant and mood-stabilizing effects and is often taken as a supplement.",
+      "uses": ["Mood support", "Depression relief"],
+      "categories": ["Mood Support", "Depression Relief"]
+    },
+    {
+      "id": 48,
+      "name": "Licorice Root",
+      "scientific_name": "Glycyrrhiza glabra",
+      "description": "Licorice root is the root of the licorice plant. It is often used for its sweet flavor and is believed to have anti-inflammatory and soothing properties, especially for the digestive system.",
+      "uses": ["Digestive support", "Anti-inflammatory"],
+      "categories": ["Digestive Support", "Anti-inflammatory"]
+    },
+    {
+      "id": 49,
+      "name": "Arnica",
+      "scientific_name": "Arnica montana",
+      "description": "Arnica is a flowering plant known for its yellow daisy-like flowers. It is used topically for its potential anti-inflammatory and pain-relieving properties, especially for bruises and muscle soreness.",
+      "uses": ["Topical pain relief", "Anti-inflammatory"],
+      "categories": ["Topical Pain Relief", "Anti-inflammatory"]
+    },
+    {
+      "id": 50,
+      "name": "Burdock Root",
+      "scientific_name": "Arctium lappa",
+      "description": "Burdock root is a plant root commonly used in traditional medicine. It is believed to have detoxifying properties and is used for skin conditions and digestive health.",
+      "uses": ["Detoxification", "Skin health"],
+      "categories": ["Detoxification", "Skin Health"]
+    },
+    {
+      "id": 51,
+      "name": "Oregano",
+      "scientific_name": "Origanum vulgare",
+      "description": "Oregano is a fragrant herb often used in cooking. It is known for its antimicrobial properties and is used both culinarily and medicinally.",
+      "uses": ["Antimicrobial", "Culinary herb"],
+      "categories": ["Antimicrobial", "Culinary Herb"]
+    },
+    {
+      "id": 52,
+      "name": "Mullein",
+      "scientific_name": "Verbascum thapsus",
+      "description": "Mullein is a tall plant with fuzzy leaves. It is often used for respiratory conditions and is believed to have soothing and expectorant properties.",
+      "uses": ["Respiratory health", "Soothing"],
+      "categories": ["Respiratory Health", "Soothing"]
+    },
+    {
+      "id": 53,
+      "name": "Yarrow",
+      "scientific_name": "Achillea millefolium",
+      "description": "Yarrow is a flowering plant with feathery leaves. It is used for its potential anti-inflammatory and wound-healing properties and is often applied topically.",
+      "uses": ["Wound healing", "Anti-inflammatory"],
+      "categories": ["Wound Healing", "Anti-inflammatory"]
+    },
+    {
+      "id": 54,
+      "name": "Motherwort",
+      "scientific_name": "Leonurus cardiaca",
+      "description": "Motherwort is an herb in the mint family. It is traditionally used for its potential calming effects on the nervous system and is believed to support heart health.",
+      "uses": ["Calming", "Heart health"],
+      "categories": ["Calming", "Heart Health"]
+    },
+    {
+      "id": 55,
+      "name": "Red Clover",
+      "scientific_name": "Trifolium pratense",
+      "description": "Red Clover is a flowering plant used in traditional medicine. It is believed to have estrogen-like effects and is often used for hormonal balance and skin health.",
+      "uses": ["Hormonal balance", "Skin health"],
+      "categories": ["Hormonal Balance", "Skin Health"]
+    },
+    {
+      "id": 56,
+      "name": "Butterbur",
+      "scientific_name": "Petasites hybridus",
+      "description": "Butterbur is a plant with large leaves. It is traditionally used for migraines and allergies and is believed to have anti-inflammatory properties.",
+      "uses": ["Migraine relief", "Allergy support"],
+      "categories": ["Migraine Relief", "Allergy Support"]
+    },
+    {
+      "id": 57,
+      "name": "Cayenne Pepper",
+      "scientific_name": "Capsicum annuum",
+      "description": "Cayenne pepper is a hot chili pepper used in cooking. It is known for its spicy flavor and is believed to have potential cardiovascular and metabolic benefits.",
+      "uses": ["Metabolic support", "Cardiovascular health"],
+      "categories": ["Metabolic Support", "Cardiovascular Health"]
+    },
+    {
+      "id": 58,
+      "name": "Sage",
+      "scientific_name": "Salvia officinalis",
+      "description": "Sage is an aromatic herb often used in cooking. It is known for its potential cognitive and memory-enhancing properties and is used both culinarily and medicinally.",
+      "uses": ["Cognitive support", "Culinary herb"],
+      "categories": ["Cognitive Support", "Culinary Herb"]
+    },
+    {
+      "id": 59,
+      "name": "Devil's Claw",
+      "scientific_name": "Harpagophytum procumbens",
+      "description": "Devil's Claw is a plant native to southern Africa. It is traditionally used for its anti-inflammatory properties and is often taken as a supplement for joint health.",
+      "uses": ["Anti-inflammatory", "Joint health"],
+      "categories": ["Anti-inflammatory", "Joint Health"]
+    },
+    {
+      "id": 60,
+      "name": "Ginseng",
+      "scientific_name": "Panax ginseng",
+      "description": "Ginseng is a root used in traditional medicine. It is believed to have adaptogenic properties, helping the body adapt to stress. Ginseng is also used to enhance energy and cognitive function.",
+      "uses": ["Adaptogenic", "Energy booster"],
+      "categories": ["Adaptogenic", "Energy Booster"]
+    }
+  ]
+}

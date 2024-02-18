@@ -1,0 +1,11 @@
+.text-4xl {
+  font-size: 2.25rem;
+}
+
+/*r smaller screens */
+@media (max-width: 768px) {
+  .text-4xl {
+    font-size: 1.5rem;
+    padding-top: 130px;
+  }
+}
