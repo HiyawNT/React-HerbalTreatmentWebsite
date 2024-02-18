@@ -4,7 +4,6 @@ import {
   AccordionHeader,
   AccordionBody,
 } from "@material-tailwind/react";
-import { defaultIconPrefixCls } from "antd/es/config-provider";
 
 function Icon({ id, open }) {
   return (
